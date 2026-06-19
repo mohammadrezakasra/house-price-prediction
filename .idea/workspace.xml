@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28a06ba4-9e21-465a-85a0-1ffbd7222ba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/neural_network_with_bn_and_dropout.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neural_network_with _dropout.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mlp_regressor_scratch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlp_regressor_scratch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mlp_regressor_scratch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural_network_with_bn_and_dropout.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1781614752767</updated>
       <workItem from="1781614753779" duration="29296000" />
-      <workItem from="1781850260374" duration="8229000" />
+      <workItem from="1781850260374" duration="16054000" />
     </task>
     <servers />
   </component>
