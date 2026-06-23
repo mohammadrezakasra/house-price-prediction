@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧠 Multi-Layer Perceptron (MLP) From Scratch
+# 🧠 Neural Network for Regression from Scratch
 
-### A Pure NumPy Implementation of Deep Learning Fundamentals with Inverted Dropout
+### ساخت شبکه عصبی برای رگرسیون از ابتدا
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.20+-darkgreen.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -17,7 +17,7 @@ Language / زبان:
 
 ## 🇬🇧 English Version
 
-This repository contains a production-grade, object-oriented implementation of a Multi-Layer Perceptron (MLP) built entirely from scratch using only **NumPy**. The primary objective of this project is to master deep learning from first principles, focusing on backpropagation via the Chain Rule, matrix calculus, and regularization mechanics.
+This repository contains a production-grade, object-oriented implementation of a Multi-Layer Perceptron (MLP) tailored for regression tasks, built entirely from scratch using only **NumPy**. The primary objective of this project is to master deep learning from first principles, focusing on backpropagation via the Chain Rule, matrix calculus, and regularization mechanics.
 
 ### 🚀 Key Features
 
@@ -48,7 +48,7 @@ The implementation is cleanly decoupled inside the main Jupyter Notebook (`.ipyn
 
 ## 🇮🇷 نسخه فارسی
 
-این مخزن شامل یک پیاده‌سازی شیءگرا و مهندسی‌شده از یک شبکه عصبی چندلایه (MLP) است که از پایه (From Scratch) و تنها با استفاده از کتابخانه **NumPy** توسعه یافته است. هدف اصلی این پروژه، تسلط بر ریاضیات عمیق پس‌انتشار خطا (Backpropagation) بر پایه قاعده زنجیره‌ای (Chain Rule)، حساب ماتریسی و تکنیک‌های منظم‌سازی است.
+این مخزن شامل یک پیاده‌سازی شیءگرا و مهندسی‌شده از یک شبکه عصبی چندلایه (MLP) برای مسائل رگرسیون است که از پایه (From Scratch) و تنها با استفاده از کتابخانه **NumPy** توسعه یافته است. هدف اصلی این پروژه، تسلط بر ریاضیات عمیق پس‌انتشار خطا (Backpropagation) بر پایه قاعده زنجیره‌ای (Chain Rule)، حساب ماتریسی و تکنیک‌های منظم‌سازی است.
 
 ### 🚀 قابلیت‌های کلیدی مدل
 
